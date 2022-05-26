@@ -15,4 +15,4 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-![CoverPicture](https://images8.alphacoders.com/115/thumb-1920-1156488.png)
+![CoverPicture](https://i.ibb.co/Pw4ZSbG/Banner-1.png)
