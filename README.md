@@ -16,4 +16,4 @@ Here are some ideas to get you started:
 -->
 
 
-<img src="https://i.ibb.co/Pw4ZSbG/Banner-1.png" width="1500px" height="500px">
+<img src="https://i.ibb.co/Pw4ZSbG/Banner-1.png" width="1500" height="300">
