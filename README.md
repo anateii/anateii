@@ -15,4 +15,5 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-![CoverPicture](https://i.ibb.co/Pw4ZSbG/Banner-1.png)
+
+<img src="https://i.ibb.co/Pw4ZSbG/Banner-1.png" width="100" height="100">
