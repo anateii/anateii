@@ -1,4 +1,4 @@
-### Hi there ![](https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif)
+### Hi there ![](https://cliply.co/wp-content/uploads/2020/02/392002770_ROCKET_EMOJI_400px.gif)
 
 <!--
 **anateii/anateii** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
