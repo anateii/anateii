@@ -16,4 +16,4 @@ Here are some ideas to get you started:
 -->
 
 
-[!Cover](https://i.ibb.co/YXMXYZ6/Github-Cover-photo.png)
+![Cover](https://i.ibb.co/YXMXYZ6/Github-Cover-photo.png)
