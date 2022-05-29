@@ -27,4 +27,5 @@ My name is Ana and I am an ambitious UI Front-End Developer with a lot of energy
 * <img src="https://emojipedia-us.s3.dualstack.us-west-1.amazonaws.com/thumbs/160/apple/325/sparkles_2728.png" alt="sparkle" width="20"> Coding is my warmup, Debugging is my cardio 
 
 ## Where you can find me
-![https://www.instagram.com/hercodingpill/](https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white)
+***
+![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white)(https://www.instagram.com/hercodingpill/)
