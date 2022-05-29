@@ -1,4 +1,4 @@
-### Hi there! <img src="https://i.ibb.co/Ydr40cV/woman-technologist-light-skin-tone-removebg-preview.png" alt="woman" width="30"> <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" alt="hello" width="30">
+## Hi there! <img src="https://i.ibb.co/Ydr40cV/woman-technologist-light-skin-tone-removebg-preview.png" alt="woman" width="30"> <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" alt="hello" width="30">
 
 <!--
 **anateii/anateii** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -20,5 +20,5 @@ Here are some ideas to get you started:
 
 My name is Ana and I am an ambitious UI Front-End Developer with a lot of energy and enthusiasm. My skills include  different programming languages, webpage planning, web development, and maintenance. I develop responsive web designs which are functional, appealing, and customized. 
 
-### My values
+## My values
 ***
