@@ -42,6 +42,13 @@ My name is Ana and I am an ambitious UI Front-End Developer with a lot of energy
 - ![Redux](https://img.shields.io/badge/redux-%23593d88.svg?style=for-the-badge&logo=redux&logoColor=white)
 - ![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white)
 
+## Fun fact 
 
+if(brain!=empty) {
+keepCoding()}
+else {
+orderCoffee()
+}
+}
 
 
