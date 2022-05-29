@@ -22,5 +22,5 @@ My name is Ana and I am an ambitious UI Front-End Developer with a lot of energy
 
 ## My values
 ***
- <img src="https://emojipedia-us.s3.dualstack.us-west-1.amazonaws.com/thumbs/160/apple/325/seedling_1f331.png" width="20"> You cannot make the world worthwhile unless you develop and transform yourself first
-<img src="https://emojipedia-us.s3.dualstack.us-west-1.amazonaws.com/thumbs/160/apple/325/fire_1f525.png" width="20">  United we stand and divided we fall
+ *<img src="https://emojipedia-us.s3.dualstack.us-west-1.amazonaws.com/thumbs/160/apple/325/seedling_1f331.png" width="20"> You cannot make the world worthwhile unless you develop and transform yourself first
+*<img src="https://emojipedia-us.s3.dualstack.us-west-1.amazonaws.com/thumbs/160/apple/325/fire_1f525.png" width="20">  United we stand and divided we fall
