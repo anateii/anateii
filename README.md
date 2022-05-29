@@ -21,3 +21,4 @@ Here are some ideas to get you started:
 My name is Ana and I am an ambitious UI Front-End Developer with a lot of energy and enthusiasm. My skills include  different programming languages, webpage planning, web development, and maintenance. I develop responsive web designs which are functional, appealing, and customized. 
 
 ### My values
+***
