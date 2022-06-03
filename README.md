@@ -29,7 +29,7 @@ My name is Ana and I am an ambitious UI Front-End Developer with a lot of energy
 
 ## My Github Stats
 
-<a href="http://www.github.com/anateii"><img src="https://github-readme-stats.vercel.app/api?username=anateii&show_icons=true&hide=&count_private=true&title_color=ffffff&text_color=ffffff&icon_color=14b8a6&bg_color=181824&hide_border=true&show_icons=true" alt="anateii's GitHub stats" /></a>
+<a href="http://www.github.com/anateii"><img src="https://github-readme-stats.vercel.app/api?username=anateii&show_icons=true&hide=&count_private=true&title_color=14b8a6&text_color=ffffff&icon_color=14b8a6&bg_color=000000&hide_border=true&show_icons=true" alt="anateii's GitHub stats" /></a>
 
 
 ## Where you can find me
