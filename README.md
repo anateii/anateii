@@ -6,7 +6,7 @@
 
 My name is Ana and I am an ambitious UI Front-End Developer with a lot of energy and enthusiasm. My skills include  different programming languages, webpage planning, web development, and maintenance. I develop responsive web designs which are functional, appealing, and customized. 
 
-Let's talk over a coffee! <img src="https://user-images.githubusercontent.com/97735587/171857322-74fc6de8-5dc9-47a1-b502-b397f2442c53.png" alt="coffee-emoji" width="30">
+Let's talk! <img src="https://user-images.githubusercontent.com/97735587/171857322-74fc6de8-5dc9-47a1-b502-b397f2442c53.png" alt="coffee-emoji" width="30" margin-top="10px">
 
 [![Discord](https://img.shields.io/badge/%3CServer%3E-%237289DA.svg?style=for-the-badge&logo=discord&logoColor=white)](https://discord.gg/A7Bg5SvcEh)
 
