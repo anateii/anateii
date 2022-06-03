@@ -27,7 +27,11 @@ My name is Ana and I am an ambitious UI Front-End Developer with a lot of energy
 * <img src="https://emojipedia-us.s3.dualstack.us-west-1.amazonaws.com/thumbs/160/apple/325/sparkles_2728.png" alt="sparkle" width="20"> Coding is my warmup, Debugging is my cardio 
 
 
-## 
+## My Github Stats
+
+<a href="http://www.github.com/anateii"><img src="https://github-readme-stats.vercel.app/api?username=anateii&show_icons=true&hide=&count_private=true&title_color=14b8a6&text_color=ffffff&icon_color=14b8a6&bg_color=1c1917&hide_border=true&show_icons=true" alt="anateii's GitHub stats" /></a>
+
+<a href="https://github.com/anateii" align="left"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=anateii&langs_count=10&title_color=14b8a6&text_color=ffffff&icon_color=14b8a6&bg_color=1c1917&hide_border=true&locale=en&custom_title=Top%20%Languages" alt="Top Languages" /></a>
 
 
 ## Where you can find me
@@ -36,7 +40,7 @@ My name is Ana and I am an ambitious UI Front-End Developer with a lot of energy
 [![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ana-matei/)
 [![Discord](https://img.shields.io/badge/%3CServer%3E-%237289DA.svg?style=for-the-badge&logo=discord&logoColor=white)](https://discord.gg/A7Bg5SvcEh)
 
-## Favourite technologies
+## Skills
 
 - ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
 - ![Redux](https://img.shields.io/badge/redux-%23593d88.svg?style=for-the-badge&logo=redux&logoColor=white)
