@@ -20,6 +20,10 @@ Here are some ideas to get you started:
 
 My name is Ana and I am an ambitious UI Front-End Developer with a lot of energy and enthusiasm. My skills include  different programming languages, webpage planning, web development, and maintenance. I develop responsive web designs which are functional, appealing, and customized. 
 
+Let's talk over a coffee! ![image](https://user-images.githubusercontent.com/97735587/171857322-74fc6de8-5dc9-47a1-b502-b397f2442c53.png)
+
+[![Discord](https://img.shields.io/badge/%3CServer%3E-%237289DA.svg?style=for-the-badge&logo=discord&logoColor=white)](https://discord.gg/A7Bg5SvcEh)
+
 ## My values
 
  * <img src="https://emojipedia-us.s3.dualstack.us-west-1.amazonaws.com/thumbs/160/apple/325/seedling_1f331.png" alt="plant" width="20"> You cannot make the world worthwhile unless you develop and transform yourself first
@@ -36,7 +40,7 @@ My name is Ana and I am an ambitious UI Front-End Developer with a lot of energy
 
 <p align="left"> <a href="https://www.github.com/anateii" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" width="32" height="32" /></a> <a href="http://www.instagram.com/hercodingpill" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/instagram.svg" width="32" height="32" /></a> <a href="https://www.linkedin.com/in/ana-matei" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" width="32" height="32" /></a></p>
 
-[![Discord](https://img.shields.io/badge/%3CServer%3E-%237289DA.svg?style=for-the-badge&logo=discord&logoColor=white)](https://discord.gg/A7Bg5SvcEh)
+
 
 ## Skills
 
