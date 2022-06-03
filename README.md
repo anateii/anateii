@@ -1,26 +1,12 @@
 ## Hi there! <img src="https://i.ibb.co/Ydr40cV/woman-technologist-light-skin-tone-removebg-preview.png" alt="woman" width="30"> <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" alt="hello" width="30">
 
-<!--
-**anateii/anateii** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
 
 
 ![Cover](https://i.ibb.co/LSKzF4Z/Github-Cover-photo-2.png)
 
 My name is Ana and I am an ambitious UI Front-End Developer with a lot of energy and enthusiasm. My skills include  different programming languages, webpage planning, web development, and maintenance. I develop responsive web designs which are functional, appealing, and customized. 
 
-Let's talk over a coffee! ![image](https://user-images.githubusercontent.com/97735587/171857322-74fc6de8-5dc9-47a1-b502-b397f2442c53.png)
+Let's talk over a coffee! <img src="https://user-images.githubusercontent.com/97735587/171857322-74fc6de8-5dc9-47a1-b502-b397f2442c53.png" alt="coffee-emoji" width="30">
 
 [![Discord](https://img.shields.io/badge/%3CServer%3E-%237289DA.svg?style=for-the-badge&logo=discord&logoColor=white)](https://discord.gg/A7Bg5SvcEh)
 
