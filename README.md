@@ -1,8 +1,5 @@
 # Hi there! <img src="https://i.ibb.co/Ydr40cV/woman-technologist-light-skin-tone-removebg-preview.png" alt="woman" width="30"> <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" alt="hello" width="30">
-====================
 
-UI Frontend Developer
----------------------
 
 
 ![Cover](https://i.ibb.co/LSKzF4Z/Github-Cover-photo-2.png)
