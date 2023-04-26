@@ -18,9 +18,6 @@ Each week, I share valuable tips and tricks on FrontEnd Development and technolo
 
 My goal is to inspire others, especially women, to take up coding and experience the same joy and fulfillment that I have.
 
-Let's talk! <img src="https://user-images.githubusercontent.com/97735587/171857322-74fc6de8-5dc9-47a1-b502-b397f2442c53.png" alt="coffee-emoji" width="30" margin-top="10px">
-
-[![Discord](https://img.shields.io/badge/%3CServer%3E-%237289DA.svg?style=for-the-badge&logo=discord&logoColor=white)](https://discord.gg/A7Bg5SvcEh)
 
 ## My values
 
@@ -36,7 +33,11 @@ Let's talk! <img src="https://user-images.githubusercontent.com/97735587/1718573
 
 ## Where you can find me
 
-<p align="left"> <a href="https://www.github.com/anateii" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" width="32" height="32" /></a> <a href="http://www.instagram.com/hercodingpill" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/instagram.svg" width="32" height="32" /></a> <a href="https://www.linkedin.com/in/ana-matei" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" width="32" height="32" /></a></p>
+<p align="left"> 
+  <a href="https://www.github.com/anateii" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" width="32" height="32" /></a> 
+  <a href="http://www.instagram.com/hercodingpill" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/instagram.svg" width="32" height="32" /></a> 
+  <a href="https://www.linkedin.com/in/anamateii" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" width="32" height="32" /></a>
+</p>
 
 
 
