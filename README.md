@@ -21,7 +21,7 @@ My goal is to inspire others, especially women, to take up coding and experience
 
 ## My values
 
- * <img src="https://emojipedia-us.s3.dualstack.us-west-1.amazonaws.com/thumbs/160/apple/325/seedling_1f331.png" alt="plant" width="20"> You cannot make the world worthwhile unless you develop and transform yourself first
+ * <img src="https://emojipedia-us.s3.dualstack.us-west-1.amazonaws.com/thumbs/160/apple/325/seedling_1f331.png" alt="plant" width="20"> 🌱 You cannot make the world worthwhile unless you develop and transform yourself first
 * <img src="https://emojipedia-us.s3.dualstack.us-west-1.amazonaws.com/thumbs/160/apple/325/fire_1f525.png" alt="fire" width="20"> United we stand and divided we fall
 * <img src="https://emojipedia-us.s3.dualstack.us-west-1.amazonaws.com/thumbs/160/apple/325/sparkles_2728.png" alt="sparkle" width="20"> Coding is my warmup, Debugging is my cardio 
 
