@@ -2,7 +2,7 @@
 
 
 
-![Cover](https://i.ibb.co/BZZwDZB/Github-Cover-photo.png)
+![Cover](https://i.ibb.co/XX5SRhZ/Banner-Linked-In-3.png)
 
 My name is Ana and I am an ambitious UI Front-End Developer with a lot of energy and enthusiasm. My skills include  different programming languages, webpage planning, web development, and maintenance. I develop responsive web designs which are functional, appealing, and customized. 
 
