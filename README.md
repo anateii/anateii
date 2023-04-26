@@ -4,7 +4,19 @@
 
 ![Cover](https://i.ibb.co/XX5SRhZ/Banner-Linked-In-3.png)
 
-My name is Ana and I am an ambitious UI Front-End Developer with a lot of energy and enthusiasm. My skills include  different programming languages, webpage planning, web development, and maintenance. I develop responsive web designs which are functional, appealing, and customized. 
+Hello, my name is Ana and I am NOT a programmer geek or a developer obsessed with data algorithms. But I am obsessed with one thing: striving for the best result.
+
+When I first started my journey in tech, I was unsure about my future and lacked a clear sense of purpose. 
+
+But through hard work, dedication, and the help of some amazing mentors, I discovered that coding was a medicine pill for me.
+
+It not only provided me with a sense of fulfillment but also transformed my life. It allowed me to contribute to the world and be proud of myself🥰
+
+This is the reason why I created @hercodingpill Instagram account. My hope is to share with you the same life-changing experience that coding has given me 💊
+
+Each week, I share valuable tips and tricks on FrontEnd Development and technologies that have helped me elevate my skills 💻
+
+My goal is to inspire others, especially women, to take up coding and experience the same joy and fulfillment that I have.
 
 Let's talk! <img src="https://user-images.githubusercontent.com/97735587/171857322-74fc6de8-5dc9-47a1-b502-b397f2442c53.png" alt="coffee-emoji" width="30" margin-top="10px">
 
