@@ -2,8 +2,6 @@
 
 
 
-![Cover](https://i.ibb.co/XX5SRhZ/Banner-Linked-In-3.png)
-
 Hello, my name is Ana and I am NOT a programmer geek or a developer obsessed with data algorithms. But I am obsessed with one thing: striving for the best result.
 
 When I first started my journey in tech, I was unsure about my future and lacked a clear sense of purpose. 
