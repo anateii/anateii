@@ -10,10 +10,6 @@ But through hard work, dedication, and the help of some amazing mentors, I disco
 
 It not only provided me with a sense of fulfillment but also transformed my life. It allowed me to contribute to the world and be proud of myself🥰
 
-This is the reason why I created @hercodingpill Instagram account. My hope is to share with you the same life-changing experience that coding has given me 💊
-
-Each week, I share valuable tips and tricks on FrontEnd Development and technologies that have helped me elevate my skills 💻
-
 My goal is to inspire others, especially women, to take up coding and experience the same joy and fulfillment that I have.
 
 
